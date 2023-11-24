@@ -11,6 +11,7 @@ Status    | Escopo            | Tecnologia               | Descrição          
 :-------- | :---------------- | :----------------------- | :------------------------------------------------------ |
 🔄       | `Backend`         | `.NET Web API`           | Ambiente de desenvolvimento backend em C#               |
 ⛔       | `Fronted`         | `NextJs`                 | Framework para desenvolvimento fronted baseado em React |
+🔄       | `Database`        | `PostgreSQL`             | Banco de Dados Relacional                               |
 🔄       | `ORM`             | `Entity Framework Core`  | ORM para integração dinâmica com banco de dados SQL     |
 ⛔       | `Message Broker`  | `RabbitMQ`               | Servidor de gerenciamento de mensageria                 |
 🔄       | `Container`       | `Docker`                 | Ambiente para virtualização de serviços                 |
