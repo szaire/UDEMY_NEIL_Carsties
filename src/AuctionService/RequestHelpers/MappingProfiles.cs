@@ -7,7 +7,7 @@ namespace AuctionService.RequestHelpers;
 public class MappingProfiles : Profile
 {
     // Esse mapa é criado para retornar objetos de maneira adequada de acordo com seu tipo no banco de dados
-    protected MappingProfiles()
+    public MappingProfiles()
     {
         // Aqui iremos mapear a entidade Auction do banco de dados para o objeto AuctionDTO. Aqui estamos incluindo
         // a entidade item
